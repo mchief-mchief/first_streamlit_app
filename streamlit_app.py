@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Coding Is Fun'}
+streamlit.title('Coding Is Fun')
